@@ -1,7 +1,7 @@
 # spider
 Check the site for broken links
 ```
-usage: `spider.py [-h] [-q] [-p] [-g] [-m N] url`
+usage: spider.py [-h] [-q] [-p] [-g] [-m N] url
 
 Check the site for broken inner links in tags <a href=...> and <img src=...>
 
